@@ -9,7 +9,7 @@ These scripts automate Chrome and YouTube interactions and now repeat their acti
 ### ✅ `test_chrome.py`
 - Launches Chrome
 - Taps the address bar
-- Searches for "Pixel 7a"
+- Searches for "cnn"
 - Waits 5 seconds and returns to home
 - Repeats the above 100 times
 
