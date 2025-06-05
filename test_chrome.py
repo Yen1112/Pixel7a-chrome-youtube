@@ -12,7 +12,7 @@ for i in range(100):
     adb(["shell", "input", "tap", "540", "150"])
     time.sleep(1)
 
-    adb(["shell", "input", "text", "Pixel%207a"])
+    adb(["shell", "input", "text", "cnn"])
     adb(["shell", "input", "keyevent", "66"])
     time.sleep(5)
 
